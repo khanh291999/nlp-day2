@@ -1,3 +1,11 @@
+## Thành viên nhóm
+
+| Họ và tên | MSSV |
+|-----------|------|
+| Lê Tấn Kiên | 2591309 |
+| Đỗ Quốc Khánh | 2591307 |
+| Nguyễn Trương Hoàng Hiếu | 2591304 |
+
 ## Hướng Dẫn Cài Đặt
 
 Để chạy ứng dụng, thực hiện các bước sau:
